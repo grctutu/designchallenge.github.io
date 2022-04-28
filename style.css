@@ -395,6 +395,10 @@ body {
 	background: var(--light-orange);
 	color: var(--orange);
 }
+#content main .box-info li:nth-child(4) .bx {
+	background: var(--grey);
+	color: var(--black);
+}
 #content main .box-info li .text h3 {
 	font-size: 24px;
 	font-weight: 600;
